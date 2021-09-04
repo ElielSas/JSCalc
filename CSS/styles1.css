@@ -45,9 +45,8 @@ main ol {
 .contenedor {
 	background-color: red;
 	width: 90%;
-	margin: 0 auto;
-	padding-bottom: 50px;
 	border: 2px black solid;
+	margin-bottom: 50px;
 } 
 p {
 	color: white;
@@ -81,12 +80,6 @@ footer ul {
 	color: white;
 	list-style-type: none;
 	font-size: 16px; 
-}
-.mapouter {
-	position: relative;
-	text-align: center;
-	height: 400px;
-	width: 350px;
 }
 h2 {
 	padding: 15px;
