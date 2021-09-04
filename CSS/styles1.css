@@ -47,6 +47,7 @@ main ol {
 	width: 90%;
 	border: 2px black solid;
 	margin-bottom: 50px;
+	display: inline-flex;
 } 
 p {
 	color: white;
@@ -94,4 +95,8 @@ header h1 {
 	float: center;
 	border-bottom: #b3aaaa 1.5px solid;
 	font-size: 1.5rem;
+}
+.menu {
+	width: 15em;
+	height: 15rem;
 }
